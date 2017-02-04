@@ -1,3 +1,4 @@
+GIT is FUN, thanks Linus
 * Avro
 * Harrier
 * Hornet
